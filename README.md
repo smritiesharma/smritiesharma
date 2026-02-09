@@ -6,7 +6,7 @@
   ### Hi there, I'm Smriti! 👋
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=CSE+Undergrad+(AIML);Explaining+Code+to+Humans;Building+my+3D+Portfolio;Learning+C%2B%2B+and+OOPs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=CSE+Undergrad+(AIML);Explaining+Code+to+Humans;Building+a+3D+Portfolio;Learning+C%2B%2B+and+OOPs" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -45,18 +45,18 @@ I am a 2nd-semester **B.Tech student in CSE (AI/ML)**. My journey in tech is jus
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smritiesharma&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smritiesharma&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
-</div>
+### 🏆 Achievements & Stats
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smritiesharma&theme=tokyonight&hide_border=true" alt="streak graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=smritiesharma&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
 </div>
 
 <br/>
