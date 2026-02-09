@@ -1,6 +1,7 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Smriti%20Sharma&fontSize=80&animation=fadeIn&fontAlignY=35&desc=CSE%20(AIML)%20Student%20%7C%20Aspiring%20AI%20Engineer&descAlignY=55&descAlign=50" alt="Smriti Sharma Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=250&section=header&text=Smriti%20Sharma&fontSize=80&animation=fadeIn&fontAlignY=35&desc=CSE%20(AIML)%20Student%20%7C%20Aspiring%20AI%20Engineer&descAlignY=55&descAlign=50" alt="Smriti Sharma Banner" width="100%"/>
+  
 
   ### Hi there, I'm Smriti! 👋
 
